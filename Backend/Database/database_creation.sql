@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS `cse370_db`;
+
+CREATE DATABASE `cse370_db`;
+
+use `cse370_db`;

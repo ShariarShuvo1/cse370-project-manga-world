@@ -1,0 +1,4 @@
+*.vscode/
+*.idea/
+Frontend/manga-world/package-lock.json
+Frontend/manga-world/package.json

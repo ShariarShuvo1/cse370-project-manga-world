@@ -1,0 +1,13 @@
+.background_image_home {
+  background-image: url("./../../Assets/Images/Backgrounds/home-page-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  overflow-y: scroll;
+}
